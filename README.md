@@ -7,3 +7,7 @@ ceci est un projet test
 plus du text à ajouter dans le fichier pour le commit
 
 features 2 a ajouter une ligen sans prévenir
+
+
+
+Ajout de 25 septembre 2017 .................
